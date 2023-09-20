@@ -6,3 +6,4 @@ This repository is mainly for projects I have done under DataAnalyst Plus in Yan
 Описание проектов
 
 Название проекта	Задачи проекта	Навыки и инструменты
+
